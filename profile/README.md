@@ -5,6 +5,8 @@
 
 ## Stacks
 ### Development
+
+<div>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/JAVA-red?style=for-the-badge&logo=OpenJDK&logoColor=white">
 <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -13,12 +15,16 @@
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
 <img src="https://img.shields.io/badge/RabbitMQ-F46800?style=for-the-badge&logo=rabbitmq&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+</div>
 
 
 ### Communication
+<div>
+
 <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white">
 <img src="https://img.shields.io/badge/Slack-purple?style=for-the-badge&logo=Notion&logoColor=white">
 
+</div>
 
 ### [앱 프로토타입](https://ovenapp.io/view/vu9uG416LkL9aGaXVlIxVsAePrQU5SBY/WBs0B)
 
