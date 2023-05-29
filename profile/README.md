@@ -30,7 +30,7 @@
 
 ## Architecture
 
-![TGather_Architecture](https://github.com/growth-genius/.github/assets/98408267/19dd7173-8fad-4d43-851a-b47ca4ebdd60)
+![TGather_Architecture](https://github.com/growth-genius/.github/assets/98408267/0b7dd46b-09f1-4f80-95aa-1605dc789d61)
 
 
 ## 프로젝트 개발 과정
