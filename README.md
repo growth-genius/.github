@@ -26,7 +26,7 @@
 </div>
 
 ### [앱 프로토타입](https://ovenapp.io/view/vu9uG416LkL9aGaXVlIxVsAePrQU5SBY/WBs0B)
-### [API 명세서](https://orchid-play-7fe.notion.site/3cd6dfc8be2342999b49138cce474f3a)
+### [API 명세서](https://www.notion.so/sgyj/581978b4d354463d9f5926f647f71f9f?pvs=4)
 
 ## Architecture
 
