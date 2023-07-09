@@ -68,4 +68,12 @@
            App
         </td>
     </tr>
+        <tr height="20px">
+        <td align="center">
+            Backend, Frontend
+        </td>
+        <td align="center">
+            Backend, Frontend, DevOps
+        </td>
+    </tr>
 </table>
