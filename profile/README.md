@@ -23,14 +23,15 @@
 <div>
 <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white">
 <img src="https://img.shields.io/badge/Slack-purple?style=for-the-badge&logo=Notion&logoColor=white">
-</div>
+</div>![tgather_architecture](https://github.com/growth-genius/.github/assets/98408267/5856fdb3-71d9-47f0-90b0-6b96192b3bf7)
+
 
 ### [앱 프로토타입](https://ovenapp.io/view/vu9uG416LkL9aGaXVlIxVsAePrQU5SBY/WBs0B)
 ### [API 명세서](https://orchid-play-7fe.notion.site/3cd6dfc8be2342999b49138cce474f3a)
 
 ## Architecture
 
-![TGather_Architecture](https://github.com/growth-genius/.github/assets/98408267/873bb081-2271-4df2-be20-63b6c1e88fd0)
+![tgather_architecture](https://github.com/growth-genius/.github/assets/98408267/5856fdb3-71d9-47f0-90b0-6b96192b3bf7)
 
 
 ## 프로젝트 개발 과정
