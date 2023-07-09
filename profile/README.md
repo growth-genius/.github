@@ -53,15 +53,4 @@
             <a href="https://github.com/seunggulee1007">seunggulee1007</a>
         </td>
     </tr>
-    <tr height="20px">
-        <td align="center">
-            Backend
-        </td>
-        <td align="center">
-            Backend, DevOps
-        </td>
-        <td align="center">
-           App
-        </td>
-    </tr>
 </table>
