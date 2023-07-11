@@ -1,6 +1,11 @@
 # TGather ( 여행모임 플랫폼 )
 
-저희는 여행을 좋아하는 사람들로 같이 여행다니는 친구들을 찾자!라는 생각으로 여행 모임 플랫폼을 만들었습니다.
+- 기획의도
+코로나19 팬데믹 이후 여행 수요가 늘면서 다시 여행객들이 증가하며 여행 산업이 활성화되고 있습니다. </br>
+저희는 이런 사회적 변화에 맞춰 여행을 사랑하는 사람들을 위해 여행모임 플랫폼 TGather를 개발하게 되었습니다.
+- 개발목표
+이번 프로젝트에서는 MSA를 실제로 경험해보기 위해서 SpringCloud, Kafka를 활용하였습니다. </br>
+ 또한 Junit, Jacoco를 통해 유지보수와 가독성 있는 프로젝트를 만들고자 노력하였습니다.
 
 
 ## Stacks
@@ -25,13 +30,13 @@
 <img src="https://img.shields.io/badge/Slack-purple?style=for-the-badge&logo=Notion&logoColor=white">
 </div>
 
-### [앱 프로토타입](https://ovenapp.io/view/vu9uG416LkL9aGaXVlIxVsAePrQU5SBY/WBs0B)
-### [API 명세서](https://www.notion.so/sgyj/581978b4d354463d9f5926f647f71f9f?pvs=4)
-
 ## Architecture
-
 ![TGather_Architecture](https://github.com/growth-genius/.github/assets/98408267/873bb081-2271-4df2-be20-63b6c1e88fd0)
 
+### 티게더 와이어프레임
+![TGather_wireframe](https://github.com/growth-genius/.github/assets/98408267/848b1df9-2f12-44ca-b242-dac4ad471973)
+
+### [API 명세서](https://www.notion.so/sgyj/581978b4d354463d9f5926f647f71f9f?pvs=4)
 
 ## 프로젝트 개발 과정
 - [Nexus3를-이용한-Spring-라이브러리-배포-및-사용하기](https://yejipro.tistory.com/entry/Nexus3%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-Spring-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EB%B0%B0%ED%8F%AC-%EB%B0%8F-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
