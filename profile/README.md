@@ -36,7 +36,8 @@
 ![TGather_wireframe](https://github.com/growth-genius/.github/assets/98408267/cacdb34e-67e0-4840-86ec-b77e54d6aaee)
 
 ## Architecture
-![tgather_architecture](https://github.com/growth-genius/.github/assets/98408267/5856fdb3-71d9-47f0-90b0-6b96192b3bf7)
+![tgather_architecture](https://github.com/growth-genius/.github/assets/98408267/37cf4fa5-02ba-44b9-8e8f-1d0135cb7749)
+
 
 ### [API 명세서](https://orchid-play-7fe.notion.site/3cd6dfc8be2342999b49138cce474f3a)
 
