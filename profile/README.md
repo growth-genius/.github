@@ -32,13 +32,13 @@
 <img src="https://img.shields.io/badge/Slack-purple?style=for-the-badge&logo=Notion&logoColor=white">
 </div>
 
-### [앱 프로토타입](https://ovenapp.io/view/vu9uG416LkL9aGaXVlIxVsAePrQU5SBY/WBs0B)
-### [API 명세서](https://orchid-play-7fe.notion.site/3cd6dfc8be2342999b49138cce474f3a)
+## 와이어프레임
+![TGather_wireframe](https://github.com/growth-genius/.github/assets/98408267/cacdb34e-67e0-4840-86ec-b77e54d6aaee)
 
 ## Architecture
-
 ![tgather_architecture](https://github.com/growth-genius/.github/assets/98408267/5856fdb3-71d9-47f0-90b0-6b96192b3bf7)
 
+### [API 명세서](https://orchid-play-7fe.notion.site/3cd6dfc8be2342999b49138cce474f3a)
 
 ## 프로젝트 개발 과정
 - [Nexus3를-이용한-Spring-라이브러리-배포-및-사용하기](https://yejipro.tistory.com/entry/Nexus3%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-Spring-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EB%B0%B0%ED%8F%AC-%EB%B0%8F-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
