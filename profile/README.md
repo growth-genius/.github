@@ -31,7 +31,8 @@
 </div>
 
 ## 와이어프레임
-![TGather_wireframe](https://github.com/growth-genius/.github/assets/98408267/cacdb34e-67e0-4840-86ec-b77e54d6aaee)
+![TGather_wireframe](https://github.com/growth-genius/.github/assets/98408267/1aa4d943-716f-429e-9c50-72241f83549b)
+
 
 ## Architecture
 ![tgather_architecture](https://github.com/growth-genius/.github/assets/98408267/37cf4fa5-02ba-44b9-8e8f-1d0135cb7749)
