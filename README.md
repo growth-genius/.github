@@ -54,11 +54,6 @@
             <br />
             <a href="https://github.com/seunggulee1007">seunggulee1007</a>
         </td>
-        <td align="center" width="130px">
-            <a href="https://github.com/bonjin-app"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/64253039?v=4"/></a>
-            <br />
-            <a href="https://github.com/bonjin-app">GIGAS</a>
-        </td>
     </tr>
     <tr height="20px">
         <td align="center">
