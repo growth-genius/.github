@@ -62,9 +62,6 @@
         <td align="center">
             Backend, DevOps
         </td>
-        <td align="center">
-           App
-        </td>
     </tr>
         <tr height="20px">
         <td align="center">
